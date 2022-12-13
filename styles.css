@@ -1,5 +1,5 @@
 img{
-    width:90px;
+    width:100px;
 }
 .tableBody{
     width:95%;
@@ -12,7 +12,7 @@ img{
     justify-content: center;
 }
 .header{
-    background-color: rgb(147, 203, 212);
+    background-color: rgb(142, 218, 229);
     color: rgb(3, 14, 24);
     padding: 10px 5px;
 }
