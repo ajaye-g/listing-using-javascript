@@ -1,0 +1,22 @@
+img{
+    width:70px;
+}
+.tableBody{
+    width:95%;
+    margin-top: 40px;
+}
+.flex{
+    display: flex;
+}
+.center{
+    justify-content: center;
+}
+.header{
+    background-color: rgb(147, 203, 212);
+    color: rgb(3, 14, 24);
+    padding: 10px 5px;
+}
+table, th, td {
+    border: 1px solid rgb(238, 233, 233);
+    border-collapse: collapse;
+  }
